@@ -20,6 +20,7 @@ Copy the the binary ```sailfish-minimal-sdl``` and ```img/hello.bmp``` to the ph
 
 Run it on the emulator
 ====
+
 ```./sailfish-minimal-sdl```
 
 You'll see a smiley face.
