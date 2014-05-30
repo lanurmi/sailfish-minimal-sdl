@@ -17,17 +17,17 @@ Build it for the phone
 
 Copy the the binary ```sailfish-minimal-sdl``` and ```img/hello.bmp``` to the phone. The bmp needs to be in a subdirectory.
 
-
 Run it on the emulator
 ====
 
-```./sailfish-minimal-sdl```
+Like this: ```./sailfish-minimal-sdl```
 
 You'll see a smiley face.
 
-
 Run it on the phone
-```./sailfish-minimal-sdl```
+====
+
+Like this: ```./sailfish-minimal-sdl```
 
 You'll see ... nothing? Only a black screen?
 
