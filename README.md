@@ -3,6 +3,19 @@ This is a minimal sample project for loading and showing a bitmap with SDL2, wit
 Minimal SDL2 example from:
 https://wiki.libsdl.org/SDL_CreateRenderer
 
+Prequisites
+====
+
+Install SDL2-devel on the MerSDK:
+
+```sb2 -t SailfishOS-armv7hl -m sdk-install -R zypper install SDL2-devel```
+
+```sb2 -t SailfishOS-i486 -m sdk-install -R zypper install SDL2-devel```
+
+Install SDL2 on the emulator and phone: ```pkcon install SDL2```
+
+See also: https://together.jolla.com/question/22379/porting-sdl-20-game-to-sailfish/
+
 Build it for the emulator
 ====
 
