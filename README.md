@@ -3,7 +3,7 @@ This is a minimal sample project for loading and showing a bitmap with SDL2, wit
 Minimal SDL2 example from:
 https://wiki.libsdl.org/SDL_CreateRenderer
 
-Prequisites
+Prerequisites
 ====
 
 Install SDL2-devel on the MerSDK:
